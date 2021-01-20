@@ -8,9 +8,8 @@
 - 📫 How to reach me **rastogiritvik99@gmail.com**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritvik19&layout=compact&hide=html&theme=tokyonight" alt="ritvik19" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritvik19&show_icons=true&theme=tokyonight" alt="ritvik19" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritvik19&layout=compact&hide=html&theme=tokyonight" alt="ritvik19" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritvik19&show_icons=true&theme=tokyonight" alt="ritvik19" />
 
 <p align="center">
 <a href="https://linkedin.com/in/ritvik-rastogi-003085153/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ritvik-rastogi-003085153/" height="30" width="30" /></a>
