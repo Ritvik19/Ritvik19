@@ -2,6 +2,8 @@
 <h3 align="center">A passionate programmer and Kaggle Expert from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritvik19" alt="ritvik19" /> </p>
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/ritvik1909/notebook"/>
+
 
 - 💬 Ask me about **python, data science, machine learning, deep learning**
 
