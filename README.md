@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritvik Rastogi</h1>
-<h3 align="center">A passionate programmer and Kaggle Expert from India</h3>
+<h3 align="center">Data Scientist | Kaggle Expert | Programmer | Problem Solver | Indian</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritvik19" alt="ritvik19" /> </p>
 <table align="center">
